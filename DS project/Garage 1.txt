@@ -1,6 +1,0 @@
-1
-Washing
-450
-2
-drying
-200
