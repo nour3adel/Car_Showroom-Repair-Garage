@@ -17,66 +17,65 @@ An application that shows customers Cars’ Showrooms to buy/rent a car and Repa
 <br>
 
 ## Customer
-a) ID
-b) Username
-c) Password
-d) Buy, Rent or Repair
+- ID
+- Username
+- Password
+- Buy, Rent or Repair
 
 <br>
 
 ## Showrooms
 
-a) ID
-b) Name
-c) Location
-d) Phone number
-e) List of Cars
+- ID
+- Name
+- Location
+- Phone number
+- List of Cars
 
 <br>
 
 ## CAR
-a) ID
-b) Make
-c) Model
-d) Year
-e) Price
-f) Installment
+- ID
+- Make
+- Model
+- Year
+- Price
+- Installment
 
 <br>
 
 ## Garages
-a) ID
-b) Name
-c) Location
-d) Phone number
-e) List of Services
+- ID
+- Name
+- Location
+- Phone number
+- List of Services
 
 <br>
 
 ## Service
-
-a) ID
-b) Name
-c) Price
+- ID
+- Name
+- Price
 <br>
 
 ## Service Process
 
-a) Process ID
-b) Customer ID
-c) Date
-d) Amount of money
-e) Chosen Service
+- Process ID
+- Customer ID
+- Date
+- Amount of money
+- Chosen Service
 
 <br>
 
 ## Buy/Rent Process
 
-a) Process ID
-b) Customer ID
-c) Date
-d) Amount of money
-e) Chosen car
+- Process ID
+- Customer ID
+- Date
+- Amount of money
+- Chosen car
 
 <br>
 
