@@ -7,14 +7,14 @@ An application that shows customers Cars’ Showrooms to buy/rent a car and Repa
 ###Minimum requirements
 
 <br>
-##Admin
+## Admin
 a) ID
 b) Username
 c) Password
 
 <br>
 
-##Customer
+## Customer
 a) ID
 b) Username
 c) Password
@@ -22,7 +22,7 @@ d) Buy, Rent or Repair
 
 <br>
 
-##Showrooms
+## Showrooms
 
 a) ID
 b) Name
@@ -32,7 +32,7 @@ e) List of Cars
 
 <br>
 
-##CAR
+## CAR
 a) ID
 b) Make
 c) Model
@@ -51,14 +51,14 @@ e) List of Services
 
 <br>
 
-##Service
+## Service
 
 a) ID
 b) Name
 c) Price
 <br>
 
-##Service Process
+## Service Process
 
 a) Process ID
 b) Customer ID
