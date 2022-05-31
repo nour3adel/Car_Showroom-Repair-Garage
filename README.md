@@ -1,6 +1,18 @@
-# Car_Showroom
+## Car_Showroom and Repair Garage is a Data Structure  project developed using C++ (vectors), by students:
+1. Nour Adel
+2. Ahmed Osama
+3. Ahmed Rabiea
+4. Ahmed Awad
+5. Ahmed Abdelwahab
+6. Omnia Khaled
+7. Ameria Khaled
 
-An application that shows customers Cars’ Showrooms to buy/rent a car and Repair shops (Garages) to repair their own cars
+
+<br>
+
+
+ An application that shows customers Cars’ Showrooms to buy/rent a car and Repair shops (Garages) to repair their own cars
+
 
 - Admin can add, update & delete data related to showrooms, garages, cars & services
 - Customer can register to the app
@@ -86,17 +98,6 @@ An application that shows customers Cars’ Showrooms to buy/rent a car and Repa
 
 <br>
 
-## Car_Showroom and Repair Garage is a Data Structure  project developed using C++ (vectors), by students:
-1. Nour Adel
-2. Ahmed Osama
-3. Ahmed Rabiea
-4. Ahmed Awad
-5. Ahmed Abdelwahab
-6. Omnia Khaled
-7. Ameria Khaled
-
-
-<br>
 
 ## Development Tools
 
