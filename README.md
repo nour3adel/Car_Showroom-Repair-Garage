@@ -2,6 +2,13 @@
 
 An application that shows customers Cars’ Showrooms to buy/rent a car and Repair shops (Garages) to repair their own cars
 
+- Admin can add, update & delete data related to showrooms, garages, cars & services
+- Customer can register to the app
+- Customer can search for specific car, service, showroom or garage
+- Customer can view list of data related to showrooms/ Garages
+- Customer can buy/ rent a car or book garage appointment using the app
+- Customer can reserve his picked car, so that it’s not shown in the list of available cars of a Showroom for limited time
+- Show historical services data for one customer
 
 ## Minimum requirements:
 
@@ -90,3 +97,10 @@ An application that shows customers Cars’ Showrooms to buy/rent a car and Repa
 
 
 <br>
+
+## Development Tools
+
+- Visual Studio
+- C++ Language (Data Structure ---> Vector)
+- Files
+
