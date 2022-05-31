@@ -1,13 +1,13 @@
-[README.md](https://github.com/nour3adel/Car_Showroom-Repair-Garage/files/8805368/README.md)
 # Car_Showroom
 
 An application that shows customers Cars’ Showrooms to buy/rent a car and Repair shops (Garages) to repair their own cars
 
 
-<br>
-## Minimum requirements
+## Minimum requirements:
 
-<br>
+
+
+
 ## Admin
 
 a) ID
