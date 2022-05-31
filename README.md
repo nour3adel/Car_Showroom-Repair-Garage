@@ -5,10 +5,11 @@ An application that shows customers Cars’ Showrooms to buy/rent a car and Repa
 
 
 <br>
-### Minimum requirements
+## Minimum requirements
 
 <br>
 ## Admin
+
 a) ID
 b) Username
 c) Password
