@@ -10,9 +10,9 @@ An application that shows customers Cars’ Showrooms to buy/rent a car and Repa
 
 ## Admin
 
-a) ID
-b) Username
-c) Password
+- ID
+- Username
+- Password
 
 <br>
 
